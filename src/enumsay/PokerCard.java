@@ -50,8 +50,8 @@ public class PokerCard {
 				protoDeck.add(new PokerCard(rank, suit));
 	}
 
+	// Return copy of prototype deck
 	public static ArrayList<PokerCard> newDeck() {
-		// Return copy of prototype deck
 		return new ArrayList<PokerCard>(protoDeck);
 	}
 
@@ -78,7 +78,7 @@ public class PokerCard {
 		return table.get(suit).get(rank);
 	}
 	
-	/**
+	/*
 	 * if you wanna use table, initialize prototype deck like this...
 	 * 
 	 * static {
@@ -86,6 +86,7 @@ public class PokerCard {
 	 * 		for (Rank rank : Rank.values())
 	 * 			protoDeck.add(PokerCard.valueOf(rank, suit));
 	 * }
+	 * 
 	 */
 
 }

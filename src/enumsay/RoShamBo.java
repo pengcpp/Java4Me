@@ -5,7 +5,9 @@ import java.util.Random;
 import enumsay.RoShamBo.Outcome;
 
 /**
- * 多路分发 from: thinking in java 石头剪子布
+ * Enum 多路分发 
+ * 
+ * From: 《thinking in java》-石头剪子布
  */
 public class RoShamBo {
 

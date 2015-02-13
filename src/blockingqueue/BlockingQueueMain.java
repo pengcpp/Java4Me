@@ -7,6 +7,8 @@ import java.util.concurrent.LinkedBlockingQueue;
 
 /**
  * BlockingQueue 生产者消费者
+ * 
+ * From Internet...
  */
 public class BlockingQueueMain {
 

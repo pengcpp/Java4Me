@@ -5,7 +5,7 @@ import java.util.EnumMap;
 import static enumsay.FSMInput.*;
 
 /**
- * 自动售货机状态
+ * 自动售货机State
  */
 public enum FSMState {
 

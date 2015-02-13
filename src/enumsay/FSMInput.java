@@ -3,7 +3,8 @@ package enumsay;
 import java.util.Random;
 
 /**
- * 自动售货机可以接收的钞票金额和所有商品的价格
+ * 自动售货机 Input 
+ * 	可以接收的钞票金额和所有商品的价格
  */
 public enum FSMInput {
 

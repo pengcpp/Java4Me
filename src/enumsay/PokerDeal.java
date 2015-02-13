@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+/**
+ * Poker Demo
+ *
+ */
 public class PokerDeal {
 
 	public static void main(String[] args) {
