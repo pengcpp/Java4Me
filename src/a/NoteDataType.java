@@ -1,5 +1,6 @@
 package a;
 
+
 /**
  * Data Type 数据类型
  * 
@@ -68,7 +69,7 @@ public class NoteDataType {
 
 	public static void main(String[] args) {
 
-		int octal = 0144;
+			int octal = 0144;
 		int hexa = 0x64;
 
 		System.out.println("NoteDataType..." + octal + " " + hexa);
